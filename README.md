@@ -1,21 +1,19 @@
 # Solver Quadratic Equations
 
-Solution of equations of the form ax^2+bx+c=0. In the case of the discriminant is less than 0, the solution is not a complex number
+This is a  example to use testing in Python
+   
+   * the "quadratic_equation.py" is a script that solves quadratic equations and returns roots
+   * the "tests.py" is a test for "quadratic_equation.py"
 
 # How to Use
 
-```#!
-
-pget_roots(a, b, c)
-
-```
+   * launch test.py
 
 # How to Launch Tests 
 
 The script requires for its operation installed Python interpreter version 3.5
 
-```#!
-
+```bash
 python tests.py
 
 ```
