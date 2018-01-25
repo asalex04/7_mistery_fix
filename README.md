@@ -6,7 +6,7 @@ This is a  example to use testing in Python
 # How to Use
 
    * clone this repo
-   * launch tests.py
+   * launch `tests.py`
 
 # How to Launch Tests 
 
