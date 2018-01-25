@@ -1,13 +1,12 @@
-# Solver Quadratic Equations
-
 This is a  example to use testing in Python
    
-   * the "quadratic_equation.py" is a script that solves quadratic equations and returns roots
-   * the "tests.py" is a test for "quadratic_equation.py"
-
+   * the `quadratic_equation.py` is a script that solves quadratic equations and returns roots
+   * the `tests.py` is a test for `quadratic_equation.py`
+   
 # How to Use
 
-   * launch test.py
+   * clone this repo
+   * launch tests.py
 
 # How to Launch Tests 
 
@@ -19,4 +18,4 @@ python tests.py
 ```
 # Project Objectives
 
-Code created for training purposes. Training course on web development ― [DEVMAN.org](https://devman.org)
+Code created for training purposes. Training course on web development ― [DEVMAN.org]
