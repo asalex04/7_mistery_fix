@@ -18,4 +18,4 @@ python tests.py
 ```
 # Project Objectives
 
-Code created for training purposes. Training course on web development ― [DEVMAN.org]
+Code created for training purposes. Training course on web development ― [DEVMAN.org](https://devman.org)
