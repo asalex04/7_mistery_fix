@@ -18,7 +18,8 @@ class QuadraticEquationTestCase(unittest.TestCase):
     def test_solves_real_roots(self):
         root1, root2 = get_roots(1, -2, 1)
         self.assertEqual(root1, 1)
-
+if __name__ == '__main__':
+    unittest.main()
 ```
 
 # How to Launch Tests 
