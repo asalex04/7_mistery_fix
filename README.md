@@ -5,21 +5,17 @@ This is a  example to use testing in Python
    
 # How to Use
 
-   * clone this repo
-   * launch `tests.py`
    
   Example usage code
 ```python    
-import unittest
-
 from quadratic_equation import get_roots
 
-class QuadraticEquationTestCase(unittest.TestCase):
-    def test_solves_real_roots(self):
-        root1, root2 = get_roots(1, -2, 1)
-        self.assertEqual(root1, 1)
-if __name__ == '__main__':
-    unittest.main()
+a = int(input('Введите a:'))
+b = int(input('Введите b:'))
+c = int(input('Введите c:'))
+
+root1, root2 = get_roots(a, b, c)
+print(root1, root2)
 ```
 
 # How to Launch Tests 
