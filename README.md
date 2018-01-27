@@ -5,8 +5,6 @@ This is a  example to use testing in Python
    
 # How to Use
 
-   
-  Example usage code
 ```python    
 from quadratic_equation import get_roots
 
